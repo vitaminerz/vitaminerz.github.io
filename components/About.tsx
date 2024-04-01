@@ -13,78 +13,69 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Noor Mohammad and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS!
+            
+            Operating across sectors such as retail, real estate, bioscience, and finance, I bring a nuanced understanding of customer needs and devise innovative solutions. Agile methodologies, Scrum mastery, design thinking and product delivery frameworks are my tools for driving efficient and impactful product cycles.
           </p>
           <p>
-            Fast-forward to today, and I had the privilege of working at an
-            advertising agency, a start-up,{" "}
+            My expertise in {" "}
             <span className="text-textGreen">
-              a huge corporation, and a student-led design studio.
+            AI, ML, LLM, Blockchain, and DAO&nbsp;  
             </span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio rem
-            accusantium fugiat veritatis, quidem repellat{" "}
-            <span className="text-textGreen">
-              ab natus possimus? Sint, accusamus!
-            </span>
+             navigates the complexities of digital transformation, fostering iterative value delivery while achieving strategic OKRs.{" "}
+            
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-            ullam eligendi dolorum nostrum possimus quos iusto magnam ut esse
-            recusandae.
+          In the twilight hours, I am a hybrid athlete, striving for a world where every App embraces dark mode.
           </p>
-          <p>Here are a few technologies I have been working with recently:</p>
+          <p>Here are a few of my favorite tools:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              JavaScript (ES6+)
+              ProductPlan 
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Next.js
+              Atlassian
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              React
+              Vertex AI
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Node.js
+              LangChain
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              TypeScript
+              OpenAI API
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Express.js
+              LaunchDarkly
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              MongoDB
+              Figma
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Tailwindcss
+             Intercom
             </li>
           </ul>
         </div>
