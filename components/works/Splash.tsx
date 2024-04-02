@@ -21,7 +21,7 @@ const Splash = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Managed FieldDispatcher's IMS documentation and integration, streamlining Home Depot's logistics and enhancing system adaptability.</li>
+          Managed FieldDispatcher IMS documentation and integration, streamlining The Home Depot logistics and enhancing system adaptability.</li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
