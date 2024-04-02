@@ -30,7 +30,7 @@ const Archive = () => {
         />
         <ArchiveCard
           title="Helium"
-          des="Around a dozen IoT miners around the northeast area fully authonomous."
+          des="IoT miners deployed around the northeast area, configured to be fully autonomous."
           listItem={["Helium", "Solana", "IOT"]}
          
         />
