@@ -78,24 +78,22 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Cyber Security Blog</h3>
+              <h3 className="text-2xl font-bold">AI LC Coordinator</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
-              A full functional Cyber Security Blog where you can view the
-              latest post and{" "}
-              <span className="text-textGreen">comments on</span> it by passing
-              your ideas besides you can try to add your own{" "}
-              <span className="text-textGreen">post</span> on it by logging on
-              the portal.
+              GenAI POC applied to Real Estate listing Marketing. FCST {" "}
+              <span className="text-textGreen">3x faster</span> Listing Marketing,{" "}
+              <span className="text-textGreen"> 90%</span> saving in Coordinator cost,{" "}
+              <span className="text-textGreen"> ~100% </span> Fair Housing Ads compliance. {" "}
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Sanity</li>
-              <li>React Hook Form</li>
+              <li>MEAN</li>
+              <li>OpenAI</li>
+              <li>APIs</li>
+              <li>Hypothesis</li>
+              <li>Agile</li>
             </ul>
-            <div className="text-2xl flex gap-4">
+            {/* <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
                 href="https://github.com/noorjsdivs"
@@ -117,7 +115,7 @@ const Projects = () => {
               >
                 <RxOpenInNewWindow />
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
         {/* ============ project Two End here ================== */}
@@ -142,22 +140,20 @@ const Projects = () => {
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
                 Featured Project
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">Ta-Daa Team</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+              While we are still unsure on where the name came from, the crawl to fly maturity of my cross functional team is undeniable. It's one of my proud moments to see a team of T-shaped engineers be {" "}
+              <span className="text-textGreen">outcome focused </span> while practicing  <span className="text-textGreen">full agile fluency </span> and <span className="text-textGreen"> extreme automation</span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>Agile Coaching</li>
+              <li>DevOps</li>
+              <li>Sevant Leader</li>
+              <li>Cross-Skill</li>
+              <li>Value Stream</li>
             </ul>
-            <div className="text-2xl flex gap-4">
+            {/* <div className="text-2xl flex gap-4">
               <a
                 className="hover:text-textGreen duration-300"
                 href="https://github.com/noorjsdivs"
@@ -179,7 +175,7 @@ const Projects = () => {
               >
                 <RxOpenInNewWindow />
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
         {/* ============ project Three End here ================== */}

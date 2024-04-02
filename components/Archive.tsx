@@ -9,56 +9,33 @@ const Archive = () => {
     <div className="max-w-contentContainer mx-auto px-4 py-24">
       <div className="w-full flex flex-col items-center">
         <h2 className="text-3xl font-titleFont font-semibold">
-          Other Noteworthy Projects
+          Other Fun Stuff
         </h2>
         <p className="text-sm font-titleFont text-textGreen">
-          view the archive
+          
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 mt-10 lgl:px-10">
         <ArchiveCard
-          title="Educare Engligh Learning Academy"
-          des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
-          listItem={["Reactjs", "Tailwind CSS", "getform.io"]}
-          link="https://www.educareenglishlearningacademy.com/"
-        />
-        <ArchiveCard
-          title="Cyber Security Blog with live comments section"
-          des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
-          listItem={["Reactjs", "Tailwind CSS", "getform.io"]}
-          link="https://www.noormohmmad.com/"
-        />
-        <ArchiveCard
-          title="ReactBD web development company"
-          des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
-          listItem={["Reactjs", "Tailwind CSS", "getform.io"]}
-          link="https://reactbd.com/"
-        />
-        <ArchiveCard
-          title="Amazon Clone with login, cart-option and payment intrigation."
-          des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
-          listItem={["Reactjs", "Tailwind CSS", "getform.io"]}
-          link="https://amazonclone.reactbd.com/"
-        />
-        <ArchiveCard
-          title="JSON data (example data api for test projects)"
-          des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              laudantium velit qui sint non, voluptates quo a veritatis."
-          listItem={["Nextjs", "Tailwind CSS", "next-router"]}
-          link="https://jsondata.reactbd.com/"
-        />
-        <ArchiveCard
-          title="Dynamic Responsive Portfolio"
-          des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
-          listItem={["Reactjs", "Tailwind CSS", "getform.io"]}
-          link="https://portfolioone.reactbd.com/"
-        />
+          title="Hybrid Athlete"
+          des="While I do enjoy lifting, I am currently focused on becoming a well-rounded versatile athlete. "
+          listItem={["Weightlifting", "Running", "Climbing"]}
 
+        />
+        <ArchiveCard
+          title="Project Bikes"
+          des="Rest Days mean late night wrenching in the garage. I fix and build motorcycles, often Italians."
+          listItem={["Shiver", "RSV4", "SuperSport939S "]}
+          
+        />
+        <ArchiveCard
+          title="Helium"
+          des="Around a dozen IoT miners around the northeast area fully authonomous."
+          listItem={["Helium", "Solana", "IOT"]}
+         
+        />
+        
+{/* 
         {showMore && (
           <>
             <motion.div
@@ -179,7 +156,7 @@ const Archive = () => {
               />
             </motion.div>
           </>
-        )}
+        )} */}
       </div>
       <div className="mt-12 flex items-center justify-center">
         {showMore ? (

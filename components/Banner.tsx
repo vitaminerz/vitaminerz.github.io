@@ -31,15 +31,15 @@ const Banner = () => {
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
         TLDR; I am a data-driven Product Strategy and Innovation Unicorn specialized in leading, managing, owning and delivering groundbreaking products from inception to market success.{" "}
-        <a href="https://www.noormohammad.live/" target="_blank">
-          {" "}
+        <a href="#about">
+          {" "}              
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
             Learn more
             <span className="absolute w-full h-[1px] bg-textGreen left-0 bottom-1 -translate-x-[110%] group-hover:translate-x-0 transition-transform duration-500"></span>
           </span>
         </a>
       </motion.p>
-      <a href="https://github.com/noorjsdivs" target="_blank">
+      <a href="https://www.optigenai.com/" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}

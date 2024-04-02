@@ -32,7 +32,7 @@ const About = () => {
             <span className="text-textGreen">
             AI, ML, LLM, Blockchain, and DAO
             </span>
-            {" "} navigates the complexities of digital transformation, fostering iterative value delivery while achieving strategic OKRs{" "}
+            {" "} navigates the complexities of digital transformation, fostering iterative value delivery while achieving strategic{" "}
             <span className="text-textGreen">
             OKRs.
             </span>
