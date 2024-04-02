@@ -13,8 +13,19 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          Operating across sectors such as retail, real estate, bioscience, and finance, I bring a nuanced understanding of customer needs and devise innovative solutions. 
-          Agile methodologies, Scrum mastery, design thinking and product delivery frameworks are my tools for driving efficient and impactful product cycles. 
+          Operating across sectors such as retail, real estate, bioscience, and finance, I bring a nuanced understanding of customer needs and devise innovative solutions.{" "}
+          <span className="text-textGreen">
+          Agile
+            </span>
+            {" "} methodologies, {" "}  
+            <span className="text-textGreen">
+          Scrum
+            </span>
+            {" "} mastery, and {" "} 
+            <span className="text-textGreen">
+          Design-Thinking
+            </span>
+            {" "} thinking are my frameworks for driving efficient and impactful product cycles. 
           </p>
           <p>
           My expertise in {" "}
@@ -29,43 +40,56 @@ const About = () => {
           <p>
           In the twilight hours, I am a hybrid athlete, striving for a world where every App embraces dark mode.
           </p>
-          <p>Here are a few solutions I have been working with recently:</p>
+          <p>My flex forte list:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Atlassian
+              Product Planning {" "} 
+              <span className="text-textGreen">
+              Roadmunk|ProductPlan
+            </span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              ProductPlan/ Roadmunk
+              Product Delivery {" "} 
+              <span className="text-textGreen">
+              Jira | Confluence | Trello 
+              </span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              MEAN stack
+              Product Design {" "} 
+              <span className="text-textGreen">
+              Figma | Adobe XD | Paint
+              </span>
+              -Yes! MS Paint...- 
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Vertex AI
+              Data & BI {" "} 
+              <span className="text-textGreen">
+              GA | Tableau | eazyBI
+              </span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              OpenAI API
+              AI & ML
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              LangChain AI/LLM
+              OpenAI API | Vertex AI | LangChain
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
