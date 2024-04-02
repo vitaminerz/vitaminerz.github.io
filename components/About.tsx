@@ -41,7 +41,7 @@ const About = () => {
           In the twilight hours, I am a hybrid athlete, striving for a world where every App embraces dark mode.
           </p>
           <p>My flex forte list:</p>
-          <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
+          <ul className="max-w-[550px] text-sm font-titleFont grid grid-cols-1 gap-2 mt-6">
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
@@ -55,7 +55,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Product Delivery {" "} 
+              Product Execution {" "} 
               <span className="text-textGreen">
               Jira | Confluence | Trello 
               </span>
@@ -64,11 +64,20 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
+              Agile Toolkit {" "} 
+              <span className="text-textGreen">
+              Scrum | Kanban | SAFe | TDD 
+              </span>
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="text-textGreen">
+                <AiFillThunderbolt />
+              </span>
               Product Design {" "} 
               <span className="text-textGreen">
-              Figma | Adobe XD | Paint
+              Figma | Adobe XD | Paint <i>-Yes! MS Paint-</i>
               </span>
-              -Yes! MS Paint...- 
+              
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
@@ -83,19 +92,28 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              AI & ML
-            </li>
-            <li className="flex items-center gap-2">
+              AI & ML {" "} 
               <span className="text-textGreen">
-                <AiFillThunderbolt />
-              </span>
               OpenAI API | Vertex AI | LangChain
+              </span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              MongoDB
+             Customer Research
+              <span className="text-textGreen">
+            LaunchDarkly | Hotjar | Canny | SurveyMonkey
+              </span>
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="text-textGreen">
+                <AiFillThunderbolt />
+              </span>
+              Dev and CI/CD{" "} 
+              <span className="text-textGreen">
+              MEAN | GIT | Bitbucket | Protractor | BrowserStack | Vercel
+              </span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
