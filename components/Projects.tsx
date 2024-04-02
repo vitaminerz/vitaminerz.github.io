@@ -143,7 +143,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Ta-Daa Team</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-              While we are still unsure on where the name came from, the crawl to fly maturity of my cross functional team is undeniable. It's one of my proud moments to see a team of T-shaped engineers be {" "}
+              While we are still unsure on where the name came from, the crawl to fly maturity of my cross functional team is undeniable. It is one of my proud moments to see a team of T-shaped engineers be {" "}
               <span className="text-textGreen">outcome focused </span> while practicing  <span className="text-textGreen">full agile fluency </span> and <span className="text-textGreen"> extreme automation</span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">

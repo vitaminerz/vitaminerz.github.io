@@ -11,7 +11,7 @@ const Contact = () => {
       </p>
       <h2 className="font-titleFont text-5xl font-semibold">Get In Touch</h2>
       <p className="max-w-[600px] text-center text-textDark">
-      I'm always looking for new ideas, new opportunities and new friends.
+      I am always looking for new ideas, new opportunities and new friends.
       </p>
 
       <a href="mailto:amn.errazi@gmail.com">
