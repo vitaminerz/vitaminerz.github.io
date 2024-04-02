@@ -10,34 +10,32 @@ const ReactBD = () => {
       className="w-full"
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
-        Engineer
-        <span className="text-textGreen tracking-wide">@ReactBD</span>
+        Co-Founder
+        <a href="https://OptigenAI.com" target="_blank" rel="noopener noreferrer" className="text-textGreen tracking-wide">
+           @OptigenAI
+        </a>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
-        Jan 2023 - present
+        Nov 2023 - present
       </p>
       <ul className="mt-6 flex flex-col gap-3">
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Write modern, performant, maintainable code for a diverse array of
-          client and internal projects
+          Leading AI-driven product execution, pioneering MVP iterations focused on impactful, data-driven results.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Work with a variety of different languages, platforms, frameworks, and
-          content management systems such as JavaScript, TypeScript, Gatsby,
-          React, Craft, WordPress, Prismic, and Netlify
+          Revolutionizing lab analysis by automating over 120 lab scripts and analyzing 2000+ biomarkers.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Communicate with multi-disciplinary teams of engineers, designers,
-          producers, and clients on a daily basis
+          Forging strategic partnerships expanding R&D capabilities, significantly enhancing athletic performance optimization.
         </li>
       </ul>
     </motion.div>

@@ -30,7 +30,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        I am a data-driven Product Strategy and Innovation Unicorn specialized in leading, managing, owning and delivering groundbreaking products from inception to market success.{" "}
+        TLDR; I am a data-driven Product Strategy and Innovation Unicorn specialized in leading, managing, owning and delivering groundbreaking products from inception to market success.{" "}
         <a href="https://www.noormohammad.live/" target="_blank">
           {" "}
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
