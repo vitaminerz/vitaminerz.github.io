@@ -40,7 +40,7 @@ const About = () => {
           <p>
           In the twilight hours, I am a hybrid athlete, striving for a world where every App embraces dark mode.  </p>
           
-          <p><i>Also, that's me to the right, according to InsightFace and MidJourney →</i></p>
+          <p><i>Also, that is me to the right, according to InsightFace and MidJourney →</i></p>
 
         
           <p>My flex forte list:</p>
