@@ -20,10 +20,13 @@ const Banner = () => {
         className="text-4xl lgl:text-6xl font-titleFont font-semibold flex flex-col"
       >
         Amine Errazi
-        <span className="text-textDark mt-2 lgl:mt-4">
+       
+        <span className="text-textDark mt-3 lgl:mt-3 text-base md:text-lg">
           Product.
         </span>
+         
       </motion.h1>
+     
       <motion.p
         initial={{ y: 10, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}

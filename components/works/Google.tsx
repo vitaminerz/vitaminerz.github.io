@@ -36,7 +36,7 @@ const Google = () => {
             <TiArrowForward />
           </span>
 
-          Pioneered organization-wide product evaluation initiatives, integrating A/B testing and OKRs, which enhanced PM efficiency and effectiveness.</li>
+          Pioneered organization-wide product evaluation initiatives, integrating A/B testing and OKRs, enhancing product management efficiency and effectiveness.</li>
       </ul>
     </motion.div>
   );
