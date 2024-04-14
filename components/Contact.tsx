@@ -14,7 +14,7 @@ const Contact = () => {
       I am always looking for new ideas, new opportunities and new friends.
       </p>
 
-      <a href="mailto:amn.errazi@gmail.com">
+      <a href="mailto:productamine@gmail.com">
         <button className="w-40 h-14 border border-textGreen mt-6 font-titleFont text-sm text-textGreen tracking-wider rounded-md hover:bg-hoverColor duration-300">
           Say Hello
         </button>
