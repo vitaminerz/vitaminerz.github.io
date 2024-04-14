@@ -40,7 +40,7 @@ const About = () => {
           <p>
           In the twilight hours, I am a hybrid athlete, striving for a world where every App embraces dark mode.  </p>
           
-          <p><i>Also, that is me to the right, according to InsightFace and MidJourney →</i></p>
+          
 
         
           <p>My flex forte list:</p>
@@ -120,10 +120,13 @@ const About = () => {
             </li>
             <li className="flex items-center gap-2">           
             </li>
-          </ul>
+          </ul><p><i>Also, that is me... according to InsightFace bot and MidJourney.</i></p>
         </div>
         <p>
+          
               </p>
+
+              
         <div className="w-full lgl:w-1/3 h-80 relative group">
           <div className="absolute w-full h-80 -left-6 -top-6 rounded-lg ">
             <div className="w-full h-full relative z-20 flex pl-6 lgl:pl-0">   
