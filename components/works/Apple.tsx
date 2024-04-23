@@ -21,19 +21,9 @@ const Apple = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Led a cross-functional team in developing and delivering RE products, enhancing agent tools.
+          Directed top-tier adoption of 3 B2C Real Estate SaaS and B2B PaaS from concept to market 
         </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Instituted Agile and DevOps methodologies, significantly increasing team productivity and project delivery speed. </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Developed and refined product roadmaps, enhancing prioritization and execution through detailed backlog management.
-        </li>
+       
       </ul>
     </motion.div>
   );

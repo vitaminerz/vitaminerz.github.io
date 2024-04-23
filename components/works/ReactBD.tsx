@@ -23,20 +23,8 @@ const ReactBD = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Leading AI-driven product execution, pioneering MVP iterations focused on impactful, data-driven results.
-        </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Revolutionizing lab analysis by automating over 120 lab scripts and analyzing 2000+ biomarkers.
-        </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Forging strategic partnerships expanding R&D capabilities, significantly enhancing athletic performance optimization.
-        </li>
+          Own product management and strategy for a SaaS B2B2C in a $16.3B AI healthcare industry        </li>
+        
       </ul>
     </motion.div>
   );

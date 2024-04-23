@@ -22,21 +22,10 @@ const Google = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Launched Listing and Design Concierge, becoming a primary tool for over 50% of Coldwell Banker listings.
+          Drove a Listing and Agent Product Portfolio simplification
 
         </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-          Spearheaded AI and ML initiatives, forecasting $3 million/yr in operational cost savings.
-        </li>
-        <li className="text-base flex gap-2 text-textDark">
-          <span className="text-textGreen mt-1">
-            <TiArrowForward />
-          </span>
-
-          Pioneered organization-wide product evaluation initiatives, integrating A/B testing and OKRs, enhancing product management efficiency and effectiveness.</li>
+  
       </ul>
     </motion.div>
   );
