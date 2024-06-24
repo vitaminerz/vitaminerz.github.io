@@ -33,7 +33,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        TLDR; I am a data-driven Product Strategy and Innovation Unicorn specialized in leading, managing, owning and delivering groundbreaking products from inception to market success.{" "}
+        TLDR; I am a data-driven Product leader specialized in leading, managing, owning and delivering groundbreaking products from inception to market success.{" "}
         <a href="#about">
           {" "}              
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
@@ -42,7 +42,7 @@ const Banner = () => {
           </span>
         </a>
       </motion.p>
-      <a href="https://www.optigenai.com/" target="_blank">
+      {/* <a href="https://www.optigenai.com/" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
@@ -51,7 +51,7 @@ const Banner = () => {
         >
           Check out my project!
         </motion.button>
-      </a>
+      </a> */}
     </section>
   );
 };

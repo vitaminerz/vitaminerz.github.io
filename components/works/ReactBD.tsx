@@ -10,7 +10,7 @@ const ReactBD = () => {
       className="w-full"
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
-        Co-Founder
+        Product | Co-Founder
         <a href="https://OptigenAI.com" target="_blank" rel="noopener noreferrer" className="text-textGreen tracking-wide">
            @OptigenAI
         </a>

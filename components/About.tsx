@@ -13,7 +13,7 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          Operating across sectors such as retail, real estate, bioscience, and finance, I bring a nuanced understanding of customer needs and devise innovative solutions.{" "}
+          Operating across sectors such as retail, real estate, healthcare, and finance, I bring a nuanced understanding of customer needs and devise innovative solutions.{" "}
           <span className="text-textGreen">
           Agile
             </span>

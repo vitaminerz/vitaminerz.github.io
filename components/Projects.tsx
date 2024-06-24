@@ -34,7 +34,7 @@ const Projects = () => {
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
               A trained biohac*ing AI capable of tailoring suggested {" "}
-              <span className="text-textGreen">peptide protocols</span>  for healthcare providers <span className="text-textGreen"></span>.
+              <span className="text-textGreen">peptide protocols</span> for healthcare providers <span className="text-textGreen"></span>.
               based on multifactors such as patient history, labs and perf KPIs.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
