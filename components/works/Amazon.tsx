@@ -21,8 +21,7 @@ const Amazon = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Modernized the GOLD ERP customization, enhancing retail floor operational efficiency by over 25%
-        </li>
+          Molding the ERP to fit the retail frenzy 🛒        </li>
         
       </ul>
     </motion.div>

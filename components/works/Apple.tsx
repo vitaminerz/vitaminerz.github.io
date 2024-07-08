@@ -21,8 +21,7 @@ const Apple = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Directed top-tier adoption of 3 B2C Real Estate SaaS and B2B PaaS from concept to market 
-        </li>
+          Enabling 0-1 execution and delivery of B2B and B2C marketing products 🚀     </li>
        
       </ul>
     </motion.div>

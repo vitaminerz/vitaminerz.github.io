@@ -21,7 +21,7 @@ const Splash = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Accelerated the Truck Route IMS delivery and positioning it for a $20M Home Depot acquisition</li>
+          Revving up the truck routing to navigate IMS complexity 🚚</li>
        
       
       </ul>

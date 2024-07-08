@@ -23,7 +23,7 @@ const ReactBD = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Own product management and strategy for a SaaS B2B2C in a $16.3B AI healthcare industry        </li>
+          Building the bridge to functional health practice ✨  </li>
         
       </ul>
     </motion.div>

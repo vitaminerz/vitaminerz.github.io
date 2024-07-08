@@ -22,8 +22,7 @@ const Google = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Drove a Listing and Agent Product Portfolio simplification
-
+          Leading integrated residential real estate marketing SaaS product portfolio 💼
         </li>
   
       </ul>
