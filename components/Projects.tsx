@@ -48,7 +48,7 @@ const Projects = () => {
              
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://chat.openai.com/g/g-mIZAwae0m-peptide-therapy"
+                href="https://optigenai.com"
                 target="_blank"
               >
                 <RxOpenInNewWindow />

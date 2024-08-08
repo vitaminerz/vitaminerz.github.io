@@ -10,13 +10,13 @@ const ReactBD = () => {
       className="w-full"
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
-        Product | Co-Founder
-        <a href="https://OptigenAI.com" target="_blank" rel="noopener noreferrer" className="text-textGreen tracking-wide">
-           @OptigenAI
+        Product 
+        <a  target="_blank" rel="noopener noreferrer" className="text-textGreen tracking-wide">
+           
         </a>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
-        Nov 2023 - present
+        Dec 2023 - present
       </p>
       <ul className="mt-6 flex flex-col gap-3">
         <li className="text-base flex gap-2 text-textDark">
