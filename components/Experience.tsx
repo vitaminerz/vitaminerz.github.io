@@ -50,74 +50,74 @@ const Experience = () => {
     setWorkSplash(false);
     setWorkAmazon(true);
   };
-  return (
-    <section
-      id="experience"
-      className="max-w-containerxs mx-auto py-10 lgl:py-24 px-4"
-    >
-      <SectionTitle title="Last Decade Exp" titleNo="02" />
-      <div className="w-full mt-10 flex flex-col md:flex-row gap-16">
-        <ul className="md:w-32 flex flex-col">
-          <li
-            onClick={handleReactbd}
-            className={`${
-              workReactbd
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Stealth
-          </li>
-          <li
-            onClick={handleGoogle}
-            className={`${
-              workGoogle
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Anywhere
-          </li>
-          <li
-            onClick={handleApple}
-            className={`${
-              workApple
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Realogy
-          </li>
-          <li
-            onClick={handleSplash}
-            className={`${
-              workSplash
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            FieldDispatcher
-          </li>
-          <li
-            onClick={handleAmazon}
-            className={`${
-              workAmazon
-                ? "border-l-textGreen text-textGreen"
-                : "border-l-hoverColor text-textDark"
-            } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
-          >
-            Auchan
-          </li>
+  // return (
+  //   <section
+  //     id="experience"
+  //     className="max-w-containerxs mx-auto py-10 lgl:py-24 px-4"
+  //   >
+  //     <SectionTitle title="Last Decade Exp" titleNo="02" />
+  //     <div className="w-full mt-10 flex flex-col md:flex-row gap-16">
+  //       <ul className="md:w-32 flex flex-col">
+  //         <li
+  //           onClick={handleReactbd}
+  //           className={`${
+  //             workReactbd
+  //               ? "border-l-textGreen text-textGreen"
+  //               : "border-l-hoverColor text-textDark"
+  //           } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
+  //         >
+  //           Stealth
+  //         </li>
+  //         <li
+  //           onClick={handleGoogle}
+  //           className={`${
+  //             workGoogle
+  //               ? "border-l-textGreen text-textGreen"
+  //               : "border-l-hoverColor text-textDark"
+  //           } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
+  //         >
+  //           Anywhere
+  //         </li>
+  //         <li
+  //           onClick={handleApple}
+  //           className={`${
+  //             workApple
+  //               ? "border-l-textGreen text-textGreen"
+  //               : "border-l-hoverColor text-textDark"
+  //           } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
+  //         >
+  //           Realogy
+  //         </li>
+  //         <li
+  //           onClick={handleSplash}
+  //           className={`${
+  //             workSplash
+  //               ? "border-l-textGreen text-textGreen"
+  //               : "border-l-hoverColor text-textDark"
+  //           } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
+  //         >
+  //           FieldDispatcher
+  //         </li>
+  //         <li
+  //           onClick={handleAmazon}
+  //           className={`${
+  //             workAmazon
+  //               ? "border-l-textGreen text-textGreen"
+  //               : "border-l-hoverColor text-textDark"
+  //           } border-l-2 bg-transparent hover:bg-[#112240] py-3 text-sm  cursor-pointer duration-300 px-8 font-medium`}
+  //         >
+  //           Auchan
+  //         </li>
           
-        </ul>
-        {workReactbd && <ReactBD />}
-        {workGoogle && <Google />}
-        {workApple && <Apple />}
-        {workSplash && <Splash />}
-        {workAmazon && <Amazon />}
-      </div>
-    </section>
-  );
+  //       </ul>
+  //       {workReactbd && <ReactBD />}
+  //       {workGoogle && <Google />}
+  //       {workApple && <Apple />}
+  //       {workSplash && <Splash />}
+  //       {workAmazon && <Amazon />}
+  //     </div>
+  //   </section>
+  // );
 };
 
 export default Experience;

@@ -33,7 +33,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        TLDR; Product generalist, 0-1 builder, 1-N growth hacker, quant/qual nerd.   {" "}
+        TLDR; Product generalist, 0-1 builder, 1-N growth hacker, in pursuit of product intuition and quant/qual nerdiness equilibrium.   {" "}
         <a href="#about">
           {" "}              
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">

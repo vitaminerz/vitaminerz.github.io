@@ -13,29 +13,36 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-          Operating across sectors such as retail, real estate, healthcare, and finance, I bring a nuanced understanding of customer needs and devise innovative solutions.{" "}
+          Operating across industries such as retail, real estate, healthcare, and automotive, I bring a nuanced understanding of customer needs and devise innovative solutions.{" "}
           <span className="text-textGreen">
-          Agile
+          Customer empathy
             </span>
-            {" "} methodologies, {" "}  
+            {" "}, {" "}  
             <span className="text-textGreen">
-          Scrum
+            design-thinking
             </span>
-            {" "} mastery, and {" "} 
+            {" "}, {" "} 
             <span className="text-textGreen">
-          Design-Thinking
+            data-driven signaling
             </span>
+            {" "}, {" "} 
+            <span className="text-textGreen">
+            agility            
+            </span>
+            {" "}, and {" "} 
+            <span className="text-textGreen">
+            experimentation            
+            </span>
+
             {" "} are my frameworks for driving efficient and impactful product cycles. 
           </p>
           <p>
-          My expertise in {" "}
-            <span className="text-textGreen">
-            AI, ML, LLM, Blockchain, and DAO
-            </span>
-            {" "} navigates the complexities of digital transformation, fostering iterative value delivery while achieving strategic{" "}
-            <span className="text-textGreen">
-            OKRs.
-            </span>
+          My journey building products within organization of all sizes allowed me to wear all cross-functional hats, from technicality, delivery, all the way to execution and strategy. {" "}
+           
+            {" "} This allows me navigate the complexities of digital transformation, fostering iterative value delivery while achieving strategic OKRs.
+{" "}
+          
+        
           </p>
           <p>
           In the twilight hours, I am a hybrid athlete, striving for a world where every App embraces dark mode.  </p>
